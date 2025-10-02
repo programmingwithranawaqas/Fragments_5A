@@ -47,7 +47,6 @@ public class PassengerAdapter extends ArrayAdapter<Passenger> {
         else if(p.getPreference().equalsIgnoreCase("train"))
         {
             ivPref.setImageResource(R.drawable.icon_train);
-
         }
 
         return convertView;

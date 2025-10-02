@@ -23,10 +23,8 @@ import java.util.Objects;
 public class MainActivity extends AppCompatActivity implements NamesFragment.OnNameClicked {
 
     TextView tvDetail;
-
     // hook to check mode
     View portrait;
-
     FragmentManager manager;
 
 

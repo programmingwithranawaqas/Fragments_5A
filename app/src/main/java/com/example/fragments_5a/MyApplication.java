@@ -15,5 +15,18 @@ public class MyApplication extends Application {
         passengers.add(new Passenger("Waqas", "12313", 90000, "Train", 5));
         passengers.add(new Passenger("Ali", "666666", 9000, "Plane", 2));
         passengers.add(new Passenger("Saadiq bhai", "13891938", 1800, "Buss", 4));
+    passengers.add(new Passenger("Waqas", "12313", 90000, "Train", 5));
+        passengers.add(new Passenger("Ali", "666666", 9000, "Plane", 2));
+        passengers.add(new Passenger("Saadiq bhai", "13891938", 1800, "Buss", 4));
+    passengers.add(new Passenger("Waqas", "12313", 90000, "Train", 5));
+        passengers.add(new Passenger("Ali", "666666", 9000, "Plane", 2));
+        passengers.add(new Passenger("Saadiq bhai", "13891938", 1800, "Buss", 4));
+    passengers.add(new Passenger("Waqas", "12313", 90000, "Train", 5));
+        passengers.add(new Passenger("Ali", "666666", 9000, "Plane", 2));
+        passengers.add(new Passenger("Saadiq bhai", "13891938", 1800, "Buss", 4));
+    passengers.add(new Passenger("Waqas", "12313", 90000, "Train", 5));
+        passengers.add(new Passenger("Ali", "666666", 9000, "Plane", 2));
+        passengers.add(new Passenger("Saadiq bhai", "13891938", 1800, "Buss", 4));
+
     }
 }
